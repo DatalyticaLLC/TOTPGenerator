@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "preact watch",
-    "build": "preact build --no-prerender",
+    "build": "preact build --no-prerender --dest build --base=/TOTPGenerator/",
     "serve": "sirv build --port 8080 --cors --single",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
