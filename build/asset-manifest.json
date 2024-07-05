@@ -1,0 +1,22 @@
+{
+  "bundle.css": "bundle.ea46d.css",
+  "bundle.js": "bundle.5e59e.esm.js",
+  "bundle.js.map": "bundle.5e59e.esm.js.map",
+  "polyfills.js": "polyfills.18c7d.esm.js",
+  "polyfills.js.map": "polyfills.18c7d.esm.js.map",
+  "assets/favicon.ico": "assets/favicon.ico",
+  "assets/icons/android-chrome-192x192.png": "assets/icons/android-chrome-192x192.png",
+  "assets/icons/android-chrome-512x512.png": "assets/icons/android-chrome-512x512.png",
+  "assets/icons/apple-touch-icon.png": "assets/icons/apple-touch-icon.png",
+  "assets/icons/favicon-16x16.png": "assets/icons/favicon-16x16.png",
+  "assets/icons/favicon-32x32.png": "assets/icons/favicon-32x32.png",
+  "assets/icons/mstile-150x150.png": "assets/icons/mstile-150x150.png",
+  "assets/preact-logo-inverse.svg": "assets/preact-logo-inverse.svg",
+  "assets/preact-logo.svg": "assets/preact-logo.svg",
+  "bundle.ea46d.css.map": "bundle.ea46d.css.map",
+  "manifest.json": "manifest.json",
+  "sw-esm.js": "sw-esm.js",
+  "sw-esm.js.map": "sw-esm.js.map",
+  "sw.js": "sw.js",
+  "sw.js.map": "sw.js.map"
+}
